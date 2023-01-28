@@ -721,10 +721,10 @@ styles.css
 
 ```
 ## Output:
+![Output](./out.png)
 ![Output](./out1.png)
 ![Output](./out2.png)
 ![Output](./out3.png)
-![Output](./out4.png)
 
 
 ## HTML Validator
