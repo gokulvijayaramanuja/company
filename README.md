@@ -349,7 +349,8 @@ CONTACT CODE:
 
 
 ## HTML Validator
-![HTML Validator](./valid.png)
+![C__Users_SEC_Videos_Captures 30-01-2023 18_02_46](https://user-images.githubusercontent.com/119577543/215488743-c8313170-1026-42a8-b1df-d4f8a4b19e54.png)
+
 
 ## Result:
 The program for designing company website for sale of products using HTML and CSS is completed successfully.
